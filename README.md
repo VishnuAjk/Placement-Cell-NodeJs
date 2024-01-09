@@ -29,20 +29,20 @@ This web application is designed for Team Career Camp to maintain a database of 
 
 ### SignIn
 
-![signIn](https://github.com/VishnuAjk/PlacementCell-NodeJs/assets/145429961/ef61b7c8-6f7e-46c0-97e3-3c6655f3cdae)
+![signIn](https://github.com/VishnuAjk/Placement-Cell-NodeJs/assets/145429961/10ec6f90-3bf8-43d9-af92-77063486df51)
 
 ### SignUp
 
-![signUp](https://github.com/VishnuAjk/PlacementCell-NodeJs/assets/145429961/a9d4f846-3917-4777-8035-130299428bbc)
+![signUp](https://github.com/VishnuAjk/Placement-Cell-NodeJs/assets/145429961/19f0a3d0-27c7-4195-b462-6be0ab0c9b43)
 
 ### Home Page
 
-![HomePage](https://github.com/VishnuAjk/PlacementCell-NodeJs/assets/145429961/fff8c37b-7835-4f7e-a0e0-ccb6943a29ce)
+![HomePage](https://github.com/VishnuAjk/Placement-Cell-NodeJs/assets/145429961/b0896c5f-3d96-4371-821b-02536f17a60b)
 
 ### StudentList Page
 
-![studenListPage](https://github.com/VishnuAjk/PlacementCell-NodeJs/assets/145429961/a138092c-e4a5-4b28-baff-daee13552a25)
+![studenListPage](https://github.com/VishnuAjk/Placement-Cell-NodeJs/assets/145429961/53cbdd3b-b3f0-487a-a7fd-8c1be7dd2793)
 
 ### CompanyList Page
 
-![companyListPage](https://github.com/VishnuAjk/PlacementCell-NodeJs/assets/145429961/7749e6d8-8b2e-49be-b5a8-09c905d7e1d8)
+![companyListPage](https://github.com/VishnuAjk/Placement-Cell-NodeJs/assets/145429961/9f3530d3-0e09-4c0f-84de-04fc13a6eb4f)
